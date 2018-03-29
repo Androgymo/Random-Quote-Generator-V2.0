@@ -1,0 +1,30 @@
+body {
+	background-color: darkgray;
+	
+}
+
+#display{
+	background-color: white;
+   /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin: 100px 100px auto;
+}
+
+#quotes {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	padding: 40px;
+	float:right;
+	
+}
+
+button {
+	border:none;
+	align-self: flex-end;
+	display: inline-flex;
+	padding: 8px 18px 6px 18px;
+}
+
